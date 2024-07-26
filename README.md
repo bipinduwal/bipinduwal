@@ -1,8 +1,11 @@
 Hi there, I'm Bipin Mathya Duwal 👋
 ##
 -👀 I’m interested in web development, creating user-friendly and efficient web applications.
+##
 -🌱 I’m currently learning advanced JavaScript frameworks and backend development(MERN).
+##
 -💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
+##
 -📫 How to reach me: bipinmathyaduwal@gmail.com
 -😄 Pronouns: He/Him
 -⚡ Fun fact: I love exploring new technologies and integrating them into my projects.
